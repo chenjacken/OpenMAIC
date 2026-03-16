@@ -6,7 +6,7 @@ export const commonZhCN = {
     loading: '加载中...',
   },
   home: {
-    slogan: 'Generative Learning in Multi-Agent Interactive Classroom',
+    slogan: '多智能体协同驱动的生成性学习课堂',
     greeting: '嗨，',
   },
   toolbar: {
